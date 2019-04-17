@@ -1,3 +1,13 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Aqui tens de fazer tudo em tuga!
+
+- [ ] editar sempre a partir to Atom
+- [ ] nunca esquecer de fazer push
+
+* Isto vai ser divertido
+
+
+_[A empresa](http://www.dynamicweb.com)_
+
+**joga em casa!**
